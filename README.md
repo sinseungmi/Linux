@@ -1,5 +1,5 @@
 # Linux 
-> #### 기본 개념 및 명령어 정리 
+> ### 기본 개념 및 명령어 정리 
 > <br>
 > 
 > ##### YUM(Yellow Dog update Modified) - 프로그램(패키지) 설치 관리 도구
