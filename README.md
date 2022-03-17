@@ -15,3 +15,11 @@
 > ```
 > sudo yum update lrzsz
 > ```
+> 3. apt remove, purge, autoremove 명령어 <br>
+> #### apt-get remove
+> - remove 명령어는 패키지를 삭제하지만 환경설정은 삭제하지 않습니다.
+> ```
+> sudo apt-get remove openjdk*
+> sudo apt remove openjdk*
+> ```
+> 
