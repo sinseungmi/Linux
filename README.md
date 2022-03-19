@@ -22,6 +22,7 @@
 > sudo apt-get remove openjdk*
 > sudo apt remove openjdk*
 > ```
+> 
 > <br>
 > 
 > ####sudo su : root 권한주기
