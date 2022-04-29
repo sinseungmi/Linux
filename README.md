@@ -106,3 +106,16 @@
 >
 > **FTP** - 파일 전송 프로토콜 <br>
 > **vsftpd** - ubuntu FTP 서버 <br>
+> ### 삭제 방법
+>
+> **패키지 설치되어 있는지 확인**
+>
+> $ dpkg -l | grep apache2
+>
+> **Tomcat 확인**
+>
+> $ ps -ef | grep tomcat
+>
+> **★** **Tomcat 정지 (삭제를할 때는 꼭 정지를 시켜야함!)**
+>
+> $ sudo service tomcat stop
