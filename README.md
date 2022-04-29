@@ -105,7 +105,7 @@
 > -**SFTP**는 사이트 관리자에서 연결해야함. 빠른 연결 아님. ubuntu 비밀번호 없음. <br> <br>
 >
 > **FTP** - 파일 전송 프로토콜 <br>
-> **vsftpd** - ubuntu FTP 서버 <br>
+> **vsftpd** - ubuntu FTP 서버 <br><br>
 > ### 삭제 방법
 >
 > **패키지 설치되어 있는지 확인**
