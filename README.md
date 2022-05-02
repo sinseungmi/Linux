@@ -118,7 +118,9 @@
 >
 > **★** **Tomcat 정지 (삭제를할 때는 꼭 정지를 시켜야함!)**
 >
-> $ sudo service tomcat stop <br>
+> $ sudo service tomcat stop 
+> 
+> <br>
 > 
 > ### ubuntu 계정 삭제
 >
