@@ -132,4 +132,18 @@
 >
 >   - f : 강제 삭제(X)
 >
->   - i : 삭제 시 일일이 삭제할 것인지 물어본다.
+>   - i : 삭제 시 일일이 삭제할 것인지 물어본다. 
+>
+> <br>
+>
+> ### ubuntu java 설치 확인
+>
+> java -version 입력시 **Command 'java' not found, but can be installed with: ←이런 오류가 나면 java 없는 것! 그리고 그 아래에 이런 거 깔아라 하면서 패키지들이 나옴.**
+>
+> 우분투에서 깔라는 거 깔면 됨.
+>
+> ```bash
+> apt-get install default-jre
+>
+> apt-get install default-jdk
+> ```
